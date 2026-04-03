@@ -6,3 +6,7 @@ print("You can run this script to see the output.")
 print("New Feature")
 print("New script")
 print("New Line")
+"""Feature A"""
+print("This is feature A")
+print("updated code")
+print("End of the script")
