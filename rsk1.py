@@ -10,3 +10,6 @@ print("New Line")
 print("This is feature A")
 print("updated code")
 print("End of the script")
+"""Feature B"""
+print("This is feature B")
+print("End of this script")
