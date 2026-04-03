@@ -5,3 +5,4 @@ print("You can run this script to see the output.")
 '''New script'''
 print("New Feature")
 print("New script")
+print("New Line")
